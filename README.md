@@ -1,16 +1,18 @@
-## Hi there 👋
+I'm Shivanshu Tripathi
 
-<!--
-**shivanshustarkkk/shivanshustarkkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-Year B.Tech Student
+Branch:Computer Science and Engineering (Core)
+University:VIT Bhopal
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+
+I am a first-year CSE (Core) student at VIT Bhopal, passionate about learning new technologies and building a strong foundation in computer science.
+
+---
+
+## What I Hope to Learn
+
+I hope to learn programming, data structures, algorithms, and software development skills to become a proficient developer.
+
