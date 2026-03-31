@@ -16,3 +16,4 @@ I am a first-year CSE (Core) student at VIT Bhopal, passionate about learning ne
 
 I hope to learn programming, data structures, algorithms, and software development skills to become a proficient developer.
 
+google form link for digital literacy quiz - https://docs.google.com/forms/d/e/1FAIpQLSdZQg9inl7tQut1cnDYBjZ88zhZc0Mr1NOoNd1ykhTiWZxQHQ/viewform?usp=publish-editor
